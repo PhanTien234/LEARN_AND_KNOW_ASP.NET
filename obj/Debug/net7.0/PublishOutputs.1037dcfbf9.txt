@@ -1,0 +1,7 @@
+/home/tien/Desktop/hello-app/bin/Debug/net7.0/publish/hello-app
+/home/tien/Desktop/hello-app/bin/Debug/net7.0/publish/appsettings.Development.json
+/home/tien/Desktop/hello-app/bin/Debug/net7.0/publish/appsettings.json
+/home/tien/Desktop/hello-app/bin/Debug/net7.0/publish/hello-app.dll
+/home/tien/Desktop/hello-app/bin/Debug/net7.0/publish/hello-app.deps.json
+/home/tien/Desktop/hello-app/bin/Debug/net7.0/publish/hello-app.runtimeconfig.json
+/home/tien/Desktop/hello-app/bin/Debug/net7.0/publish/hello-app.pdb

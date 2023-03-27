@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C9PmaSlGHSvzb84Hah9CTzRzvuEZJuJ/N7FYorpFM3taAN1NHr/ovQgbld4BHEz7uYgLp5UirouXDjHGAzvqtQ==",
+  "success": true,
+  "projectFilePath": "/home/tien/Desktop/hello-app/hello-app.csproj",
+  "expectedPackageFiles": [
+    "/home/tien/.nuget/packages/buildbundlerminifier/3.2.449/buildbundlerminifier.3.2.449.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "uYLCFTwhK8luTlVxx5CY7qLrehBPPYYwscxoT2LiJdo=",
+  "Source": "hello-app",
+  "BasePath": "_content/hello-app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "hello-app/wwwroot",
+      "Source": "hello-app",
+      "ContentRoot": "/home/tien/Desktop/hello-app/wwwroot/",
+      "BasePath": "_content/hello-app",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/tien/Desktop/hello-app/wwwroot/css/bootstrap.min.css",
+      "SourceId": "hello-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/tien/Desktop/hello-app/wwwroot/",
+      "BasePath": "_content/hello-app",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap.min.css"
+    },
+    {
+      "Identity": "/home/tien/Desktop/hello-app/wwwroot/js/bootstrap.min.js",
+      "SourceId": "hello-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/tien/Desktop/hello-app/wwwroot/",
+      "BasePath": "_content/hello-app",
+      "RelativePath": "js/bootstrap.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/bootstrap.min.js"
+    },
+    {
+      "Identity": "/home/tien/Desktop/hello-app/wwwroot/js/jquery.min.js",
+      "SourceId": "hello-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/tien/Desktop/hello-app/wwwroot/",
+      "BasePath": "_content/hello-app",
+      "RelativePath": "js/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/jquery.min.js"
+    },
+    {
+      "Identity": "/home/tien/Desktop/hello-app/wwwroot/js/popper.min.js",
+      "SourceId": "hello-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/tien/Desktop/hello-app/wwwroot/",
+      "BasePath": "_content/hello-app",
+      "RelativePath": "js/popper.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/popper.min.js"
+    }
+  ]
+}
